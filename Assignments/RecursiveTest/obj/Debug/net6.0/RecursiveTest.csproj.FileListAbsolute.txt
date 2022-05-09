@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Clock\RecursiveTest\bin\Debug\net6.0\RecursiveTest.exe
+C:\Users\Asus\Desktop\Clock\RecursiveTest\bin\Debug\net6.0\RecursiveTest.deps.json
+C:\Users\Asus\Desktop\Clock\RecursiveTest\bin\Debug\net6.0\RecursiveTest.runtimeconfig.json
+C:\Users\Asus\Desktop\Clock\RecursiveTest\bin\Debug\net6.0\RecursiveTest.dll
+C:\Users\Asus\Desktop\Clock\RecursiveTest\bin\Debug\net6.0\RecursiveTest.pdb
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.dll
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\refint\RecursiveTest.dll
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.pdb
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\RecursiveTest.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Clock\RecursiveTest\obj\Debug\net6.0\ref\RecursiveTest.dll

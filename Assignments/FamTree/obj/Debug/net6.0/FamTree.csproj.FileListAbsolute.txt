@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Clock\FamTree\bin\Debug\net6.0\FamTree.exe
+C:\Users\Asus\Desktop\Clock\FamTree\bin\Debug\net6.0\FamTree.deps.json
+C:\Users\Asus\Desktop\Clock\FamTree\bin\Debug\net6.0\FamTree.runtimeconfig.json
+C:\Users\Asus\Desktop\Clock\FamTree\bin\Debug\net6.0\FamTree.dll
+C:\Users\Asus\Desktop\Clock\FamTree\bin\Debug\net6.0\FamTree.pdb
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.dll
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\refint\FamTree.dll
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.pdb
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\FamTree.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Clock\FamTree\obj\Debug\net6.0\ref\FamTree.dll

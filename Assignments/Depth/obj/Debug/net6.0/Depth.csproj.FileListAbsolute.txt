@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\Clock\Depth\bin\Debug\net6.0\Depth.exe
+C:\Users\Asus\Desktop\Clock\Depth\bin\Debug\net6.0\Depth.deps.json
+C:\Users\Asus\Desktop\Clock\Depth\bin\Debug\net6.0\Depth.runtimeconfig.json
+C:\Users\Asus\Desktop\Clock\Depth\bin\Debug\net6.0\Depth.dll
+C:\Users\Asus\Desktop\Clock\Depth\bin\Debug\net6.0\Depth.pdb
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.dll
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\refint\Depth.dll
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.pdb
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\Depth.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Clock\Depth\obj\Debug\net6.0\ref\Depth.dll
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\bin\Debug\net6.0\Depth.exe
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\bin\Debug\net6.0\Depth.deps.json
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\bin\Debug\net6.0\Depth.runtimeconfig.json
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\bin\Debug\net6.0\Depth.dll
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\bin\Debug\net6.0\Depth.pdb
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.AssemblyInfo.cs
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.dll
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\refint\Depth.dll
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.pdb
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\Depth.genruntimeconfig.cache
+C:\Users\Asus\Desktop\New folder\Assignments\Depth\obj\Debug\net6.0\ref\Depth.dll

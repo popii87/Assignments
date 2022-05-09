@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Clock\Areas\bin\Debug\net6.0\Areas.exe
+C:\Users\Asus\Desktop\Clock\Areas\bin\Debug\net6.0\Areas.deps.json
+C:\Users\Asus\Desktop\Clock\Areas\bin\Debug\net6.0\Areas.runtimeconfig.json
+C:\Users\Asus\Desktop\Clock\Areas\bin\Debug\net6.0\Areas.dll
+C:\Users\Asus\Desktop\Clock\Areas\bin\Debug\net6.0\Areas.pdb
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.dll
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\refint\Areas.dll
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.pdb
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\Areas.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Clock\Areas\obj\Debug\net6.0\ref\Areas.dll
